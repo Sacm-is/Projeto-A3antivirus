@@ -27,7 +27,7 @@ Este projeto tem como objetivo demonstrar os conceitos básicos de desenvolvimen
 * **Detecção real de vírus:** No momento, o antivírus apenas verifica os nomes dos arquivos. Precisamos implementar técnicas mais avançadas para detectar ameaças reais.
 * **Interface mais amigável:** A interface atual é básica. Podemos adicionar mais funcionalidades e tornar a experiência do usuário mais agradável.
 * **Atualizações automáticas:** Seria legal que o antivírus se atualizasse automaticamente com novas listas de arquivos maliciosos.
-
+#
 **Membros:**
   
 Alana Taborda - 942422932
