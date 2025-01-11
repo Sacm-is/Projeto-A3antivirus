@@ -1,8 +1,3 @@
-Alana Taborda - 942422932
-Dominique Mariah Valter - 942415662 
-Emely Sampaio - 942422532
-Pedro Henrique Bertolino de Brito - 942422760
-
 # Antivirus Acadêmico
 
 **Um antivírus básico para aprendizado, desenvolvido em Java durante o curso de ADS**
@@ -33,4 +28,8 @@ Este projeto tem como objetivo demonstrar os conceitos básicos de desenvolvimen
 * **Interface mais amigável:** A interface atual é básica. Podemos adicionar mais funcionalidades e tornar a experiência do usuário mais agradável.
 * **Atualizações automáticas:** Seria legal que o antivírus se atualizasse automaticamente com novas listas de arquivos maliciosos.
 
-
+* **Membro**
+Alana Taborda - 942422932
+Dominique Mariah Valter - 942415662 
+Emely Sampaio - 942422532
+Pedro Henrique Bertolino de Brito - 942422760
