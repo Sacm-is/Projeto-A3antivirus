@@ -28,7 +28,7 @@ Este projeto tem como objetivo demonstrar os conceitos básicos de desenvolvimen
 * **Interface mais amigável:** A interface atual é básica. Podemos adicionar mais funcionalidades e tornar a experiência do usuário mais agradável.
 * **Atualizações automáticas:** Seria legal que o antivírus se atualizasse automaticamente com novas listas de arquivos maliciosos.
 
-* **Membro**
+* **Membros**
 Alana Taborda - 942422932
 Dominique Mariah Valter - 942415662 
 Emely Sampaio - 942422532
