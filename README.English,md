@@ -1,0 +1,26 @@
+Academic Antivirus
+A basic antivirus for learning purposes, developed in Java during the ADS course
+
+Description:
+
+This project aims to demonstrate the basic concepts of antivirus development. It scans a specific directory, searching for files with names matching a predefined list.
+
+Technologies:
+
+Java: Main programming language.
+Swing: GUI library for the user interface.
+Eclipse: Integrated development environment used.
+Features:
+
+File name search: Checks if file names match a predefined list of suspicious names.
+Graphical interface: Displays scan results in a table.
+Limitations:
+
+Basic detection: Performs a quick search for suspicious files in a specific directory.
+Fixed directory: The scan is performed in a predefined directory, limiting the software's flexibility.
+What's missing?
+
+Real virus detection: Currently, the antivirus only checks file names. Advanced techniques to detect real threats need to be implemented.
+More user-friendly interface: The current interface is basic. Additional features and improvements can enhance the user experience.
+Automatic updates: It would be great if the antivirus could update itself automatically with new malicious file lists.
+Team Members:
