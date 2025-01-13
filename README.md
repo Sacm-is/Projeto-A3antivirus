@@ -1,7 +1,7 @@
 # Antivirus Acadêmico
 
 <p align="center">
-    【<a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.md">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
+    【<a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.md">Português</a> | <a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.Spanish.md">Español</a>】
 </p>
 
 **Um antivírus básico para aprendizado, desenvolvido em Java durante o curso de ADS**
