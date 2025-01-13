@@ -4,7 +4,7 @@
     【<a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Projeto-A3antivirus/blob/main/README.md">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
 </p>
 
-A basic antivirus for learning purposes, developed in Java during the ADS course
+**A basic antivirus for learning purposes, developed in Java during the ADS course**
 
 **Description:**
 
